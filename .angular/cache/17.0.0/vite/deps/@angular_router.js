@@ -1,6 +1,6 @@
 import {
   Title
-} from "./chunk-NUFA4NGG.js";
+} from "./chunk-XBNPTR2N.js";
 import {
   DOCUMENT,
   HashLocationStrategy,
@@ -9,24 +9,20 @@ import {
   LocationStrategy,
   PathLocationStrategy,
   ViewportScroller
-} from "./chunk-BWW2BNIW.js";
+} from "./chunk-3INRV5UZ.js";
 import {
   APP_BOOTSTRAP_LISTENER,
   APP_INITIALIZER,
   ApplicationRef,
   Attribute,
-  BehaviorSubject,
   ChangeDetectorRef,
   Compiler,
   Component,
-  ConnectableObservable,
   Console,
   ContentChildren,
   Directive,
-  EMPTY,
   ENVIRONMENT_INITIALIZER,
   ElementRef,
-  EmptyError,
   EnvironmentInjector,
   EventEmitter,
   HostBinding,
@@ -46,40 +42,24 @@ import {
   Renderer2,
   RuntimeError,
   SkipSelf,
-  Subject,
-  Subscription,
   Version,
   ViewContainerRef,
-  __spreadProps,
-  __spreadValues,
   afterNextRender,
   booleanAttribute,
   catchError,
-  combineLatest,
-  concat,
   concatMap,
   createEnvironmentInjector,
   defaultIfEmpty,
-  defer,
-  filter,
   finalize,
   first,
-  from,
   inject,
   isInjectable,
   isNgModule,
-  isObservable,
   isPromise,
   isStandalone,
   last,
   makeEnvironmentProviders,
-  map,
   mapTo,
-  mergeAll,
-  mergeMap,
-  of,
-  pipe,
-  refCount,
   reflectComponentType,
   runInInjectionContext,
   scan,
@@ -90,7 +70,6 @@ import {
   takeLast,
   takeUntil,
   tap,
-  throwError,
   ɵɵInputTransformsFeature,
   ɵɵNgOnChangesFeature,
   ɵɵStandaloneFeature,
@@ -111,7 +90,30 @@ import {
   ɵɵloadQuery,
   ɵɵqueryRefresh,
   ɵɵsanitizeUrlOrResourceUrl
-} from "./chunk-DJDSIYGI.js";
+} from "./chunk-N45BATQV.js";
+import {
+  BehaviorSubject,
+  ConnectableObservable,
+  EMPTY,
+  EmptyError,
+  Subject,
+  Subscription,
+  __spreadProps,
+  __spreadValues,
+  combineLatest,
+  concat,
+  defer,
+  filter,
+  from,
+  isObservable,
+  map,
+  mergeAll,
+  mergeMap,
+  of,
+  pipe,
+  refCount,
+  throwError
+} from "./chunk-GCCYFXLJ.js";
 
 // node_modules/@angular/router/fesm2022/router.mjs
 var PRIMARY_OUTLET = "primary";
