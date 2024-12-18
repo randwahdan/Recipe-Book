@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../node_modules/rxjs-compat/Subject.js", "../../../../../node_modules/rxjs/Subject.js"],
+  "sourcesContent": ["\"use strict\";\nObject.defineProperty(exports, \"__esModule\", { value: true });\nvar rxjs_1 = require(\"rxjs\");\nexports.Subject = rxjs_1.Subject;\n", "\"use strict\";\nfunction __export(m) {\n    for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];\n}\nObject.defineProperty(exports, \"__esModule\", { value: true });\n__export(require(\"rxjs-compat/Subject\"));\n"],
+  "mappings": ";;;;;;;;AAAA;AAAA;AAAA;AACA,WAAO,eAAe,SAAS,cAAc,EAAE,OAAO,KAAK,CAAC;AAC5D,QAAI,SAAS;AACb,YAAQ,UAAU,OAAO;AAAA;AAAA;;;ACHzB,IAAAA,mBAAA;AAAA;AACA,aAAS,SAAS,GAAG;AACjB,eAAS,KAAK;AAAG,YAAI,CAAC,QAAQ,eAAe,CAAC;AAAG,kBAAQ,CAAC,IAAI,EAAE,CAAC;AAAA,IACrE;AACA,WAAO,eAAe,SAAS,cAAc,EAAE,OAAO,KAAK,CAAC;AAC5D,aAAS,iBAA8B;AAAA;AAAA;",
+  "names": ["require_Subject"]
+}
